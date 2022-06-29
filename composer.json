@@ -1,0 +1,8 @@
+{
+    "require": {
+        "intervention/zodiac": "^3.0",
+        "athlon1600/php-curl-file-downloader": "^1.0",
+        "php-ffmpeg/php-ffmpeg": "^1.0",
+        "athlon1600/youtube-downloader": "^3.0"
+    }
+}
